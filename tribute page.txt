@@ -155,16 +155,6 @@ footer p{
 
 
 
-# pic path:
-C:\Users\HP\Desktop\My Projects\srinivas ramanuja.jpg
-
-
-
-
-
-
-
-
 
 
 
